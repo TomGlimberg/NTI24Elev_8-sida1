@@ -1,0 +1,65 @@
+<!DOCTYPE html> <!-- --> <!-- <- kopera om du vill kometera -->
+<html class="dark" style="color-scheme: dark;"> <!-- ändra ferg på hela hemsida -->
+	<head>
+		<title>Hemliga Kursen</title> 
+		
+		<link rel="stylesheet" href="mystyle.css">
+		
+		<style>
+		dvi {
+			color: SlateBlue;
+				
+		}
+		a:link {
+			color: pink;
+			background-color: transparent;
+			text-decoration: none;
+		}
+
+		a:visited {
+			color: green;
+			background-color: transparent;
+			text-decoration: none;
+		}
+
+		a:hover {
+		  color: yellow;
+		  background-color: transparent;
+		  text-decoration: underline;
+		}
+
+		a:active {
+		  color: red;
+		  background-color: transparent;
+		  text-decoration: underline;
+		}
+		
+		</style>
+	</head>
+	
+	
+	<body>
+
+		<h1 style="color:MediumSeaGreen;">Kursen fusk prov 1</h1>
+		<ol>
+		  <li><p><a href="#C1">Prov</a></p></li>
+		  <li><p><a href="#C2">Blackjack</a></p></li>
+		</ol>
+		
+		
+		<p id="C1" style="color:red;">Fuska på prov.</p>
+		<dvi>1. veta hur provet kommer att skrivas.</div>
+		<p></p> <!-- tilfälig lösning -->
+		<dvi>2. landa ner chatgpt.</dvi>
+		<p><a href="https://chatgpt.com/auth/login/" target="_blank">väg till chatgpt</a></p>
+		<dvi>3. läs igenom responsen från chatgpt.</dvi>
+		<p></p>
+		<dvi>4. ändra texten så den likanr mer dit egna skrivande.</dvi>
+		
+		<br> <!-- tom rad -->
+		
+		<p id="C2" style="color:red;">Fuska på blackjack.</p>
+		<dvi>1. lära sig att räkna kort.</dvi>
+	
+	</body>
+</html> 
