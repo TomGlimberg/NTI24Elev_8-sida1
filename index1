@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Olika listor</title>
+</head>
+<body>
+<h1>Listor</h1>
+
+<ol>
+  <li>assassin's creed black flag</li>
+  <li>elden ring</li>
+  <li>horizon zero dawn</li>
+  <li>total war three kingdoms</li>
+</ol>
+
+<dl>
+  <dt>Snuten i Hollywood</dt>
+  <dd>- Komedi,Action</dd>
+  <dt>Ghostbusters</dt>
+  <dd>- Komedi,Action</dd>
+  <dt>Now You See Me</dt>
+  <dd>- Thriller</dd>
+  <dt>Ready Player One</dt>
+  <dd>- Action</dd>
+  <dt>Love Actually</dt>
+  <dd>-Romanc,Komedi</dd>
+</dl>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
+
+</body>
+</html>
